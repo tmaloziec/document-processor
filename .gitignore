@@ -1,0 +1,9 @@
+node_modules/
+dist/
+target/
+src-tauri/target/
+dane/
+sekrety/
+*.log
+.DS_Store
+Cargo.lock

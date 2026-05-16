@@ -7,3 +7,6 @@ sekrety/
 *.log
 .DS_Store
 Cargo.lock
+
+# Tauri auto-generated schemas (regenerated on build)
+src-tauri/gen/
